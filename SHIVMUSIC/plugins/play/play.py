@@ -687,7 +687,12 @@ async def play_commnd(
                 else:
                     err = _["general_2"].format(ex_type)
                     LOGGER(__name__).error(ex_type, exc_info=True)
-                return await mystic.edit_text(err)
+                
+                try:
+                    return await mystic.edit_text(err)
+                except MessageIdInvalid:
+                    pass
+                    
             return await mystic.delete()
         else:
             try:
@@ -721,7 +726,12 @@ async def play_commnd(
                 else:
                     err = _["general_2"].format(ex_type)
                     LOGGER(__name__).error(ex_type, exc_info=True)
-                return await mystic.edit_text(err)
+                
+                try:
+                    return await mystic.edit_text(err)
+                except MessageIdInvalid:
+                    pass
+                    
             return await play_logs(message, streamtype="M3u8 or Index Link")
     else:
         if len(message.command) < 2:
@@ -815,7 +825,12 @@ async def play_commnd(
             else:
                 err = _["general_2"].format(ex_type)
                 LOGGER(__name__).error(ex_type, exc_info=True)
-            return await mystic.edit_text(err)
+            
+            try:
+                return await mystic.edit_text(err)
+            except MessageIdInvalid:
+                pass
+                
         await mystic.delete()
         return await play_logs(message, streamtype=streamtype)
     else:
@@ -986,7 +1001,12 @@ async def play_music(client, CallbackQuery, _):
         else:
             err = _["general_2"].format(ex_type)
             LOGGER(__name__).error(ex_type, exc_info=True)
-        return await mystic.edit_text(err)
+            
+        try:
+            return await mystic.edit_text(err)
+        except MessageIdInvalid:
+            pass
+            
     return await mystic.delete()
 
 @app.on_callback_query(filters.regex("ZEOmousAdmin") & ~BANNED_USERS)
@@ -1098,7 +1118,12 @@ async def play_playlists_command(client, CallbackQuery, _):
         else:
             err = _["general_2"].format(ex_type)
             LOGGER(__name__).error(ex_type, exc_info=True)
-        return await mystic.edit_text(err)
+            
+        try:
+            return await mystic.edit_text(err)
+        except MessageIdInvalid:
+            pass
+            
     return await mystic.delete()
 
 @app.on_callback_query(filters.regex("slider") & ~BANNED_USERS)
