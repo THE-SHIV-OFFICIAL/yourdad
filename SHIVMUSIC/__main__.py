@@ -1,4 +1,11 @@
 import asyncio
+import sys
+
+# 🟢 UVLOOP FIX: Ye block child watcher aur NotImplementedError ko hamesha ke liye fix kar dega
+if sys.platform != "win32":
+    import uvloop
+    asyncio.set_event_loop_policy(uvloop.EventLoopPolicy())
+
 import importlib
 import os
 import glob
@@ -97,7 +104,7 @@ async def _run_application():
     
     await restart_bots()
     LOGGER("SHIVMUSIC").info(
-        "╔═════ஜ۩۞۩ஜ════╗\n  ☠︎︎𝗠𝗔𝗗𝗘 𝗕𝗬 THE SHIV𝘀☠︎︎\n╚═════ஜ۩۞۩ஜ════╝"
+        "╔═════ஜ۩۞۩ஜ════╗\n  ☠︎︎𝗠𝗔𝗗𝗘 𝗕𝗬 MahiMusic𝘀☠︎︎\n╚═════ஜ۩۞۩ஜ════╝"
     )
     await idle()
     await app.stop()
