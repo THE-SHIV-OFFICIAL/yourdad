@@ -1,0 +1,817 @@
+name: 日本語
+general_1: ❖ <tg-emoji emoji-id="5258362837411045098">👤</tg-emoji> ユーザーのメッセージに返信するか、ユーザー名/ユーザーIDを渡してください。
+general_2: '❖ <tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> クエリの処理中に問題が発生しました。
+
+
+  <tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> 例外: <code>{0}</code>'
+general_3: ❖ <tg-emoji emoji-id="5463274047771000031">😵</tg-emoji> あなたはこのチャットで匿名管理者です。私を使用するにはユーザーアカウントに戻してください。
+general_4: '❖ <tg-emoji emoji-id="6100397162976252509">🚫</tg-emoji> あなたにはビデオチャットを管理する権限がありません。
+
+
+  <tg-emoji emoji-id="5373310679241466020">🌀</tg-emoji> /reload で管理者キャッシュを再読み込みしてください'
+general_5: ❖ <tg-emoji emoji-id="5408916593780470262">🔇</tg-emoji> ボットはビデオチャットでストリーミングしていません。
+tg_1: '❖ <tg-emoji emoji-id="5776182936638329359">📥</tg-emoji> <u><b>{0} ダウンローダー</b></u>
+
+
+  <tg-emoji emoji-id="5258389041006518073">📂</tg-emoji> <b>ファイルサイズ:</b> {1}
+
+  <tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>完了済み:</b> {2}
+
+  <tg-emoji emoji-id="5936143551854285132">📊</tg-emoji> <b>パーセンテージ:</b> {3}%
+
+
+  <tg-emoji emoji-id="6172332822892647766">🚀</tg-emoji> <b>速度:</b> {4}/s
+
+  <tg-emoji emoji-id="5891211339170326418">⌛️</tg-emoji> <b>ETA:</b> {5}'
+tg_2: '<tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>ダウンロードが成功しました。ファイルを処理中...</b>
+
+
+  <tg-emoji emoji-id="5267421370114914946">⏱</tg-emoji> <b>経過時間:</b> {0}'
+tg_3: <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>Telegramからのメディアのダウンロードに失敗しました。もう一度お試しください...</b>
+tg_4: ❖ <tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>ダウンロードはすでに完了しています。</b>
+tg_5: ❖ <tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> <b>ダウンロードはすでに完了またはキャンセルされています。</b>
+tg_6: ❖ <tg-emoji emoji-id="6271674836628541366">🛑</tg-emoji> <b>ダウンロードがキャンセルされました。</b>
+tg_7: ❖ <tg-emoji emoji-id="6271674836628541366">🛑</tg-emoji> <b>ダウンロードがキャンセルされました（キャンセル者:</b> <tg-emoji emoji-id="5258362837411045098">👤</tg-emoji> {0}）
+tg_8: <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>ダウンロードの停止に失敗しました。</b>
+tg_9: <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>進行中のダウンロードタスクの取得に失敗しました...</b>
+call_1: <b>❖ <tg-emoji emoji-id="6257780484281997093">🚨</tg-emoji> ボットがアシスタントをチャットに招待するには <b><tg-emoji emoji-id="5778455936410588193">🔗</tg-emoji> リンク経由でユーザーを招待</b> の権限が必要です。</b>
+call_2: '<u><b><tg-emoji emoji-id="6100397162976252509">🚫</tg-emoji> {0}アシスタントはあなたのグループ/チャンネルで禁止されています。</b></u>
+
+
+  <tg-emoji emoji-id="6100424015111787987">📌</tg-emoji> <b>ID:</b> <code>{1}</code>
+
+  <tg-emoji emoji-id="5370546867786523009">📝</tg-emoji> <b>名前:</b> {2}
+
+  <tg-emoji emoji-id="5258362837411045098">👤</tg-emoji> <b>ユーザー名:</b> @{3}
+
+
+  <tg-emoji emoji-id="5409320020058584473">🔓</tg-emoji> <b>アシスタントの禁止を解除して、もう一度お試しください。</b>'
+call_3: '<tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>{0}アシスタントをチャットに招待できませんでした。</b>
+
+
+  <tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> 理由: <code>{1}</code>'
+call_4: '<tg-emoji emoji-id="5891211339170326418">⌛️</tg-emoji> <b>お待ちください...</b>
+
+
+  <tg-emoji emoji-id="5776182936638329359">📥</tg-emoji> {0}アシスタントをチャットに招待中...'
+call_5: '<tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>{0}アシスタントが正常に参加しました。</b>
+
+
+  <tg-emoji emoji-id="5373310679241466020">🌀</tg-emoji> ストリームを開始しようとしています...'
+call_6: ❖ <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>ストリームの切り替えに失敗しました。トラックをもう一度変更するには /skip を使用してください。</b>
+call_7: '❖ <tg-emoji emoji-id="5776182936638329359">📥</tg-emoji> <b>キューから次のトラックをダウンロードしています。</b>
+
+
+  <tg-emoji emoji-id="5891211339170326418">⌛️</tg-emoji> 少々お待ちください...'
+call_8: '<tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> <b>アクティブなビデオチャットが見つかりませんでした。</b>
+
+
+  <tg-emoji emoji-id="5258337316715373336">🤙</tg-emoji> グループ/チャンネルでビデオチャットを開始して、もう一度お試しください。'
+call_9: '<tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>アシスタントはすでにビデオチャットに参加しています。</b>
+
+
+  <tg-emoji emoji-id="5767288287001580715">💡</tg-emoji> アシスタントがビデオチャットに参加していない場合は、<code>/reboot</code> を送信してもう一度再生してください。'
+call_10: '<tg-emoji emoji-id="6257780484281997093">🚨</tg-emoji> <b>Telegramサーバーエラー</b>
+
+
+  <tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> Telegramで内部的な問題が発生しています。もう一度再生を試すか、グループのビデオチャットを再起動してください。'
+auth_1: ❖ <tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> <b>グループに許可できる認証済みユーザーは25人までです。</b>
+auth_2: ❖ <tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>{0}を認証済みユーザーリストに追加しました。</b>
+auth_3: <tg-emoji emoji-id="5188540541922480562">❓</tg-emoji> <b>{0}はすでに認証済みユーザーリストにいます。</b>
+auth_4: ❖ <tg-emoji emoji-id="5408832111773757273">🗑</tg-emoji> <b>{0}を認証済みユーザーリストから削除しました。</b>
+auth_5: <tg-emoji emoji-id="5188540541922480562">❓</tg-emoji> <b>{0}は認証済みユーザーリストにいません。</b>
+auth_6: ❖ <tg-emoji emoji-id="5373310679241466020">🌀</tg-emoji> <b>認証済みユーザーリストを取得中...</b>
+auth_7: '❖ <tg-emoji emoji-id="5222281328258465590">📜</tg-emoji> <b>{0} での認証済みユーザーリスト：</b>
+
+
+  '
+auth_8: ↬ <tg-emoji emoji-id="5258362837411045098">👤</tg-emoji> <b>追加者：</b>
+reload_1: '❖ <tg-emoji emoji-id="5891211339170326418">⌛️</tg-emoji> <b>管理者キャッシュは3分に1回しか更新できません。</b>
+
+
+  <tg-emoji emoji-id="5267421370114914946">⏱</tg-emoji> {0} 後に再試行してください。'
+reload_2: ❖ <tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>管理者キャッシュが正常に更新されました。</b>
+reload_3: ❖ <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>管理者キャッシュのリロードに失敗しました。チャットでボットが管理者であることを確認してください。</b>
+reload_4: '❖ <tg-emoji emoji-id="5891211339170326418">⌛️</tg-emoji> <b>お待ちください…</b>
+
+
+  <tg-emoji emoji-id="5373310679241466020">🌀</tg-emoji> あなたのチャットのために {0} を再起動しています。'
+reload_5: '<tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>あなたのチャットのために {0} が正常に再起動されました。</b>
+
+
+  <tg-emoji emoji-id="5850346984501680054">▶️</tg-emoji> 再生を開始しています…'
+admin_1: ❖ <tg-emoji emoji-id="5188540541922480562">❓</tg-emoji> <b>ストリームを再開したことを覚えていますか？</b>
+admin_2: "❖ <tg-emoji emoji-id=\"6100514338274020922\">⏸️</tg-emoji> <b>ストリームは一時停止されました</b> •\n│ \n└<tg-emoji emoji-id=\"5258362837411045098\">\U0001F464</tg-emoji> <b>ユーザー：</b> {0} ❍"
+admin_3: ❖ <tg-emoji emoji-id="5188540541922480562">❓</tg-emoji> <b>ストリームを一時停止したことを覚えていますか？</b>
+admin_4: "❖ <tg-emoji emoji-id=\"5850346984501680054\">▶️</tg-emoji> <b>ストリームは再開されました</b> •\n│ \n└<tg-emoji emoji-id=\"5258362837411045098\">\U0001F464</tg-emoji> <b>ユーザー：</b> {0} ❍"
+admin_5: "❖ <tg-emoji emoji-id=\"6271674836628541366\">\U0001F6D1</tg-emoji> <b>ストリームは終了/停止されました</b> •\n│ \n└<tg-emoji emoji-id=\"5258362837411045098\">\U0001F464</tg-emoji> <b>ユーザー：</b> {0} ❍"
+admin_6: "❖ <tg-emoji emoji-id=\"5850346984501680054\">▶️</tg-emoji> <b>sᴛʀєᴧϻ sᴋɪᴩᴩєᴅ</b> •\n│ \n└<tg-emoji emoji-id=\"5258362837411045098\">\U0001F464</tg-emoji> <b>ʙʏ :</b> {0} ❍\n\n❖ <tg-emoji emoji-id=\"6271674836628541366\">\U0001F6D1</tg-emoji> <b>ησ ϻσʀє ǫυєυєᴅ ᴛʀᴧᴄᴋs ɪη</b> {1}, <b>ʟєᴧᴠɪηɢ ᴠɪᴅєσᴄʜᴧᴛ.</b>"
+admin_7: <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>ストリームを {0} に変更中にエラーが発生しました。</b>
+admin_8: ❖ <tg-emoji emoji-id="6030657343744644592">🔁</tg-emoji> <b>ᴘʟєᴧsє ᴅɪsᴧʙʟє ʟσσᴘ ᴘʟᴧʏ ᴠɪᴧ</b> <code>/loop disable</code> <b>ᴧηᴅ ᴛʜєη ᴛʀʏ ᴛσ sᴋɪᴘ ᴧɢᴧɪη.</b>
+admin_9: <tg-emoji emoji-id="6172663483834831848">⌨️</tg-emoji> <b>スキップには1, 2, 4 のような特定の番号を使用してください…</b>
+admin_10: '<tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> <b>特定のスキップにはキューに少なくとも2つのトラックが必要です。</b>
+
+
+  <tg-emoji emoji-id="5260512129240276089">📚</tg-emoji> キューを確認するには：<b>/queue</b>'
+admin_11: '❖ <tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> <b>特定のスキップにはキューに十分なトラックがありません。</b>
+
+
+  <tg-emoji emoji-id="6172663483834831848">⌨️</tg-emoji> 1 から {0} の間でスキップしてください。'
+admin_12: '❖ <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>特定のトラックへのスキップに失敗しました。</b>
+
+
+  <tg-emoji emoji-id="5260512129240276089">📚</tg-emoji> 残りのキューを確認するには：<b>/queue</b>'
+admin_13: ❖ <tg-emoji emoji-id="5373310679241466020">🌀</tg-emoji> 管理者キャッシュをリロードするには：/reload
+admin_14: '❖ <tg-emoji emoji-id="6100397162976252509">🚫</tg-emoji> あなたにはビデオチャットを管理する権限がありません。
+
+
+  <tg-emoji emoji-id="5373310679241466020">🌀</tg-emoji> 管理者キャッシュをリロードするには：/reload'
+admin_15: '❖ <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>シャッフルに失敗しました。</b>
+
+
+  <tg-emoji emoji-id="5260512129240276089">📚</tg-emoji> <b>キューを確認するには：</b> <b>/queue</b>'
+admin_16: '❖ <tg-emoji emoji-id="5373310679241466020">🌀</tg-emoji> <b>キューは {0} によってシャッフルされました。</b>
+
+
+  <tg-emoji emoji-id="5260512129240276089">📚</tg-emoji> <b>シャッフルされたキューを確認するには：</b> <b>/queue</b>'
+admin_17: '<tg-emoji emoji-id="5767288287001580715">💡</tg-emoji> <b>例：</b>
+
+
+  <tg-emoji emoji-id="6030657343744644592">🔁</tg-emoji> /loop <code>enable</code>/<code>disable</code>
+
+  <tg-emoji emoji-id="6030657343744644592">🔁</tg-emoji> /loop <code>10</code>/<code>9</code>/<code>8</code>/<code>7</code>'
+admin_18: ❖ <tg-emoji emoji-id="6030657343744644592">🔁</tg-emoji> <b>ʟσσᴘ єηᴧʙʟєᴅ ғσʀ</b> <code>{0}</code> <b>ᴛɪϻєs ʙʏ :</b> <tg-emoji emoji-id="5258362837411045098">👤</tg-emoji> {1}.
+admin_19: ❖ <tg-emoji emoji-id="6100397162976252509">🚫</tg-emoji> <b>ループ再生は <tg-emoji emoji-id="5258362837411045098">👤</tg-emoji> {0} によって無効にされました。</b>
+admin_20: '<tg-emoji emoji-id="5767288287001580715">💡</tg-emoji> <b>例：</b>
+
+
+  <tg-emoji emoji-id="5850346984501680054">▶️</tg-emoji> /seek または /seekback [秒単位の期間]'
+admin_21: ❖ <tg-emoji emoji-id="6172663483834831848">⌨️</tg-emoji> <b>秒単位のシークには数字を使用してください。</b>
+admin_22: ❖ <tg-emoji emoji-id="5318840353510408444">🔴</tg-emoji> <b>ライブストリームはシークできません。</b>
+admin_23: '❖ <tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> <b>より短い時間でシークを試してください。</b>
+
+
+  <tg-emoji emoji-id="5850346984501680054">▶️</tg-emoji> <b>{1}</b> 分中 <b>{0}</b> 分再生されました。'
+admin_24: '<tg-emoji emoji-id="5850346984501680054">▶️</tg-emoji> <b>シーク中...</b>
+
+
+  <tg-emoji emoji-id="5891211339170326418">⌛️</tg-emoji> 少々お待ちください...'
+admin_25: '❖ <tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>ストリームが正常にシークされました。</b>
+
+
+  <tg-emoji emoji-id="5267421370114914946">⏱</tg-emoji> <b>デュレーション :</b> {0} 分
+
+  <tg-emoji emoji-id="5258362837411045098">👤</tg-emoji> <b>実行者 :</b> {1}'
+admin_26: <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>シークに失敗しました。</b>
+admin_27: ❖ <tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> <b>現在、<tg-emoji emoji-id="5850346984501680054">▶️</tg-emoji> YouTubeストリームの速度のみを制御できます。</b>
+admin_28: '<tg-emoji emoji-id="6172332822892647766">🚀</tg-emoji> <b><u>{0} 速度制御パネル</b></u>
+
+
+  <tg-emoji emoji-id="5767117162619605573">📷</tg-emoji> ビデオチャットで現在再生中のストリームの速度を変更するには、下のボタンをクリックしてください。'
+admin_29: ❖ <tg-emoji emoji-id="5188540541922480562">❓</tg-emoji> ボットはすでに通常の速度で再生中です。
+admin_30: '❖ <tg-emoji emoji-id="5891211339170326418">⌛️</tg-emoji> お待ちください...
+
+
+  <tg-emoji emoji-id="5258362837411045098">👤</tg-emoji> 他の誰かがストリームの速度を変更しようとしています。'
+admin_31: <tg-emoji emoji-id="6172332822892647766">🚀</tg-emoji> 速度を変更しています...
+admin_32: '❖ <tg-emoji emoji-id="5373310679241466020">🌀</tg-emoji> <b>進行中のストリームの速度を変更しようとしています...</b>
+
+
+  <tg-emoji emoji-id="5258362837411045098">👤</tg-emoji> <b>リクエスト者 :</b> {0}'
+admin_33: ❖ <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>進行中のストリームの速度変更に失敗しました。</b>
+admin_34: '❖ <tg-emoji emoji-id="6172332822892647766">🚀</tg-emoji> <b>進行中のストリームの速度を {0}x に変更しました</b>
+
+
+  <tg-emoji emoji-id="5258362837411045098">👤</tg-emoji> <b>リクエスト者 :</b> {1}'
+admin_35: <tg-emoji emoji-id="6271674836628541366">🛑</tg-emoji> <b>投票が提供されていたトラックが終了したため、投票は終了しました。</b>
+admin_36: <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>投票が提供されていたトラックが終了または停止したため、このアクションを実行できませんでした。</b>
+admin_37: <tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>sυᴄᴄєssғυʟʟʏ ɢσᴛ</b> <code>{0}</code> <b>υᴘᴠσᴛєs.</b>
+admin_38: ❖ <tg-emoji emoji-id="5463122435425448565">⬆️</tg-emoji> <b>1件のアップボートを追加しました。</b>
+admin_39: ❖ <tg-emoji emoji-id="5776182936638329359">📥</tg-emoji> <b>1件のアップボートを削除しました。</b>
+admin_40: <tg-emoji emoji-id="6041720006973067267">👍</tg-emoji> <b>アップボートされました。</b>
+start_1: '<tg-emoji emoji-id="5355051922862653659">🤖</tg-emoji> {0}❍ は稼働中です ●
+
+
+  <tg-emoji emoji-id="6172312314423808834">✨</tg-emoji> <b>❍ アップタイム :</b> {1}● '
+start_2: "**❖ <tg-emoji emoji-id=\"6172312314423808834\">✨</tg-emoji> こちらは {1} <tg-emoji emoji-id=\"5409025823388741707\">\U0001F3B5</tg-emoji> です！** \n\n**━━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━━**\n**❖ <tg-emoji emoji-id=\"6082387600599944892\">\U0001F3A7</tg-emoji> クローン機能を備えた音楽プレーヤー**\n**❖ <tg-emoji emoji-id=\"5355051922862653659\">\U0001F916</tg-emoji> 独自のボットを瞬時に作成**\n**❖ <tg-emoji emoji-id=\"6100220081474639964\">⚡️</tg-emoji> 24時間年中無休稼働中 | <tg-emoji emoji-id=\"6271537028307881531\">\U0001F48E</tg-emoji> プレミアム品質**\n**━━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━━**\n**❖ <tg-emoji emoji-id=\"5188540541922480562\">❓</tg-emoji> ヘルプボタンをクリックして情報を入手**\n**    私のモジュールとコマンドについて！**\n**━━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━━**"
+start_3: '<tg-emoji emoji-id="5246815495713207687">👋</tg-emoji> こんにちは {0}さん、
+
+  <tg-emoji emoji-id="5355051922862653659">🤖</tg-emoji> こちらは {1} です
+
+
+  <tg-emoji emoji-id="6170455814810112778">💖</tg-emoji> {2} に追加していただきありがとうございます、{3} はこのチャットで曲を再生できるようになりました。'
+start_4: '❍ <tg-emoji emoji-id="6032609071373226027">👥</tg-emoji> <b>スーパーグループが必要です</b> ❍
+
+
+  <tg-emoji emoji-id="5373310679241466020">🌀</tg-emoji> あなたの<b>グループ</b>を<b>スーパーグループ</b>に変換してから、再度私を追加してください。
+
+
+  <tg-emoji emoji-id="5188540541922480562">❓</tg-emoji> <b>スーパーグループの作成方法？</b>
+
+  - グループのチャット履歴を一度 <tg-emoji emoji-id="6037397706505195857">👁</tg-emoji> <b>可視</b> にしてください。'
+start_5: '<tg-emoji emoji-id="5275969776668134187">⛔️</tg-emoji> <b>↝ ブラックリスト登録されたチャット ↜</b>
+
+
+  <tg-emoji emoji-id="6100397162976252509">🚫</tg-emoji> このチャットは {0} のデータベースにブラックリスト登録されています。
+
+  <tg-emoji emoji-id="6170249162458666473">🙏</tg-emoji> あなたのチャットのブラックリスト登録を解除するには、<a href={1}><tg-emoji emoji-id="6237864166879663987">👑</tg-emoji> スー ドユーザー</a> にリクエストするか、<a href={2}><tg-emoji emoji-id="5462921117423384478">🛠</tg-emoji> サポートチャット</a> を訪れてください。'
+start_6: '侖 <tg-emoji emoji-id="5409025823388741707">🎵</tg-emoji> <b>トラック情報</b> 侖
+
+
+  侖 <tg-emoji emoji-id="6100424015111787987">📌</tg-emoji> <b>タイトル :</b> {0}
+
+
+  侖 <tg-emoji emoji-id="5267421370114914946">⏱</tg-emoji> <b>デュレーション :</b> {1} 分
+
+  侖 <tg-emoji emoji-id="6100546468924364734">👀</tg-emoji> <b>視聴数 :</b> <code>{2}</code>
+
+  侖 <tg-emoji emoji-id="5258105663359294787">🗓</tg-emoji> <b>公開日 :</b> {3}
+
+  侖 <tg-emoji emoji-id="6044356915029348425">📺</tg-emoji> <b>チャンネル :</b> <a href={4}>{5}</a>
+
+
+  <u><b>☉ <tg-emoji emoji-id="5429571366384842791">🔎</tg-emoji> 検索は {6} が提供</b></u>'
+help_1: '<tg-emoji emoji-id="5260512129240276089">📚</tg-emoji> <b>ヘルプが必要なカテゴリを選択してください。</b>
+
+  <tg-emoji emoji-id="5188540541922480562">❓</tg-emoji> 疑問点については <a href={0}><tg-emoji emoji-id="5462921117423384478">🛠</tg-emoji> サポートチャット</a> で質問してください
+
+
+  <tg-emoji emoji-id="6172663483834831848">⌨️</tg-emoji> <b>すべてのコマンドは以下で使用できます :</b> <code>/</code>'
+help_2: <tg-emoji emoji-id="5767117162619605573">📷</tg-emoji> <b>プライベートメッセージで私のヘルプメニューを取得するには、下のボタンをクリックしてください。</b>
+lang_1: ❖ <tg-emoji emoji-id="6269490656779965144">🌐</tg-emoji> <b>このグループのデフォルト言語として設定したい言語を選択してください :</b>
+lang_2: <tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>言語が正常に変更されました。</b>
+lang_3: <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>言語の変更に失敗しました。</b>
+lang_4: <tg-emoji emoji-id="5188540541922480562">❓</tg-emoji> <b>すでに同じ言語です。</b>
+setting_1: '<tg-emoji emoji-id="5350396951407895212">⚙️</tg-emoji> <u><b>{0} 設定パネル</b></u>
+
+
+  <tg-emoji emoji-id="6100424015111787987">📌</tg-emoji> <b>チャットID :</b> <code>{1}</code>
+
+  <tg-emoji emoji-id="5370546867786523009">📝</tg-emoji> <b>チャットタイトル :</b> {2}
+
+
+  <tg-emoji emoji-id="5767117162619605573">📷</tg-emoji> 設定を変更するには、下のボタンをクリックしてください。'
+setting_2: '❖ <tg-emoji emoji-id="5429571366384842791">🔎</tg-emoji> <b>ダイレクト :</b> 検索クエリを直接再生します。
+
+
+  ❖ <tg-emoji emoji-id="6113685078825505075">🟢</tg-emoji> <b>インライン :</b> ビデオとオーディオのどちらかを選択するためのインラインボタンを返します。'
+setting_3: '❖ <tg-emoji emoji-id="6032609071373226027">👥</tg-emoji> <b>全員 :</b> 誰もがこのグループに存在する管理者コマンド [スキップ、一時停止、再開など] を使用できます。
+
+
+  ❖ <tg-emoji emoji-id="6271824284310573725">👮‍♂️</tg-emoji> <b>管理者のみ :</b> 管理者および承認されたユーザーのみが管理者コマンドを使用できます。'
+setting_4: ❖ <tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> <b>承認されたユーザーが見つかりませんでした。</b>
+setting_5: '❖ <tg-emoji emoji-id="6032609071373226027">👥</tg-emoji> <b>グループ :</b> コマンドが与えられたグループで音楽を再生します。
+
+
+  ❖ <tg-emoji emoji-id="6039381989985882045">📢</tg-emoji> <b>チャンネル :</b> あなたが望むチャンネルで音楽を再生します。<b>/channelplay</b> を介してチャンネルIDを設定します。'
+setting_6: '❖ <tg-emoji emoji-id="6032609071373226027">👥</tg-emoji> <b>全員 :</b> このグループにいる全員がここで音楽を再生できます。
+
+
+  ❖ <tg-emoji emoji-id="6271824284310573725">👮‍♂️</tg-emoji> <b>管理者のみ:</b> 管理者のみがこのグループで音楽を再生できます。'
+setting_7: ❖ <tg-emoji emoji-id="5370546867786523009">📝</tg-emoji> <b>/channelplay を介してチャンネルIDを定義してください。</b>
+setting_8: <tg-emoji emoji-id="5370546867786523009">📝</tg-emoji> <b>このモードが有効な場合、管理者権限を持たないユーザーでも、一定の投票数を得た後に管理者コマンドを使用できます。</b>
+setting_9: <tg-emoji emoji-id="5463122435425448565">⬆️</tg-emoji> <b>管理者コマンドを使用するために必要な現在の賛成票は次のとおりです :</b> {0}
+setting_10: <tg-emoji emoji-id="6100397162976252509">🚫</tg-emoji> <b>投票モードは無効になっています。</b>
+setting_11: <tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> <b>最低賛成票数は2です。2未満に設定することはできません。</b>
+setting_12: <tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> <b>最高賛成票数は15です。15を超えて設定することはできません。</b>
+set_cb_1: <tg-emoji emoji-id="5373310679241466020">🌀</tg-emoji> 認証ユーザーパネルを取得しています...
+set_cb_2: <tg-emoji emoji-id="5373310679241466020">🌀</tg-emoji> 再生モードパネルを取得しています...
+set_cb_3: <tg-emoji emoji-id="5350396951407895212">⚙️</tg-emoji> 変更を設定しています...
+set_cb_4: ❖ <tg-emoji emoji-id="5373310679241466020">🌀</tg-emoji> 承認されたユーザーリストをフェッチしています...
+set_cb_5: ❖ <tg-emoji emoji-id="5352759161945867747">🔙</tg-emoji> 戻っています...
+gstats_1: '<tg-emoji emoji-id="5936143551854285132">📊</tg-emoji> <b>{0}の統計と情報を取得しています...</b>
+
+
+  <tg-emoji emoji-id="5891211339170326418">⌛️</tg-emoji> しばらく時間がかかる場合がありますので、お待ちください...'
+gstats_2: <tg-emoji emoji-id="5767117162619605573">📷</tg-emoji> <b>{0}の統計を確認するには、下のボタンをクリックしてください。</b>
+gstats_3: '<tg-emoji emoji-id="5936143551854285132">📊</tg-emoji> <b><u>{0} 統計と情報 :</u></b>
+
+
+  <tg-emoji emoji-id="5355051922862653659">🤖</tg-emoji> <b>アシスタント :</b> <code>{1}</code>
+
+  <tg-emoji emoji-id="6100397162976252509">🚫</tg-emoji> <b>ブロック済み :</b> <code>{2}</code>
+
+  <tg-emoji emoji-id="6021618194228187816">💬</tg-emoji> <b>チャット :</b> <code>{3}</code>
+
+  <tg-emoji emoji-id="6032609071373226027">👥</tg-emoji> <b>ユーザー :</b> <code>{4}</code>
+
+  <tg-emoji emoji-id="5408843502027033965">📦</tg-emoji> <b>モジュール :</b> <code>{5}</code>
+
+  <tg-emoji emoji-id="6237864166879663987">👑</tg-emoji> <b>Sudoユーザー :</b> <code>{6}</code>
+
+
+  <tg-emoji emoji-id="5409320020058584473">🔓</tg-emoji> <b>アシスタント自動退出 :</b> {7}
+
+  <tg-emoji emoji-id="5267421370114914946">⏱</tg-emoji> <b>再生時間制限 :</b> {8} 分'
+gstats_4: <tg-emoji emoji-id="6237864166879663987">👑</tg-emoji> このボタンはSudoユーザー専用です。
+gstats_5: '<tg-emoji emoji-id="6044356915029348425">📺</tg-emoji> <b><u>{0} 統計と情報 :</u></b>
+
+
+  <tg-emoji emoji-id="5408843502027033965">📦</tg-emoji> <b>モジュール :</b> <code>{1}</code>
+
+  <tg-emoji emoji-id="6172663483834831848">⌨️</tg-emoji> <b>プラットフォーム :</b> <code>{2}</code>
+
+  <tg-emoji emoji-id="5462956611033117422">📀</tg-emoji> <b>RAM :</b> <code>{3}</code>
+
+  <tg-emoji emoji-id="5350396951407895212">⚙️</tg-emoji> <b>物理コア :</b> <code>{4}</code>
+
+  <tg-emoji emoji-id="5350396951407895212">⚙️</tg-emoji> <b>合計コア :</b> <code>{5}</code>
+
+  <tg-emoji emoji-id="6100220081474639964">⚡️</tg-emoji> <b>CPU周波数 :</b> <code>{6}</code>
+
+
+  <tg-emoji emoji-id="6179486292787597805">🐍</tg-emoji> <b>Python :</b> <code>{7}</code>
+
+  <tg-emoji emoji-id="5409368076447657845">🌟</tg-emoji> <b>Pyrogram :</b> <code>{8}</code>
+
+  <tg-emoji emoji-id="5258337316715373336">🤙</tg-emoji> <b>Py-Tgcalls :</b> <code>{9}</code>
+
+
+  <tg-emoji emoji-id="5258389041006518073">📂</tg-emoji> <b>利用可能なストレージ :</b> <code>{10} GiB</code>
+
+  <tg-emoji emoji-id="5462956611033117422">📀</tg-emoji> <b>使用済みストレージ :</b> <code>{11} GiB</code>
+
+  <tg-emoji emoji-id="5462956611033117422">📀</tg-emoji> <b>残りのストレージ :</b> <code>{12} GiB</code>
+
+
+  <tg-emoji emoji-id="6021618194228187816">💬</tg-emoji> <b>サービス中のチャット :</b> <code>{13}</code>
+
+  <tg-emoji emoji-id="6032609071373226027">👥</tg-emoji> <b>サービス中のユーザー :</b> <code>{14}</code>
+
+  <tg-emoji emoji-id="6100397162976252509">🚫</tg-emoji> <b>ブロックされたユーザー :</b> <code>{15}</code>
+
+  <tg-emoji emoji-id="6237864166879663987">👑</tg-emoji> <b>Sudoユーザー :</b> <code>{16}</code>
+
+
+  <tg-emoji emoji-id="5258389041006518073">📂</tg-emoji> <b>合計DBサイズ :</b> <code>{17} MB</code>
+
+  <tg-emoji emoji-id="5258389041006518073">📂</tg-emoji> <b>合計DBストレージ :</b> <code>{18} MB</code>
+
+  <tg-emoji emoji-id="5258389041006518073">📂</tg-emoji> <b>合計DBコレクション :</b> <code>{19}</code>
+
+  <tg-emoji emoji-id="5409320020058584473">🔓</tg-emoji> <b>合計DBキー :</b> <code>{20}</code>'
+playcb_1: ❖ <tg-emoji emoji-id="5463274047771000031">😵</tg-emoji> あら、これはあなたのものではありません、ベイビー。
+playcb_2: '❖ <tg-emoji emoji-id="5373310679241466020">🌀</tg-emoji> 次の結果を取得しています、
+
+
+  <tg-emoji emoji-id="5891211339170326418">⌛️</tg-emoji> お待ちください...'
+cplay_1: '❖ <tg-emoji emoji-id="6039381989985882045">📢</tg-emoji> <b>{0} から任意のチャンネル、またはチャットのリンクされたチャンネルで音楽を再生できます。</b>
+
+
+  <tg-emoji emoji-id="5778455936410588193">🔗</tg-emoji> <b>リンクされたチャンネルの場合 :</b>
+
+  <code>/channelplay linked</code>
+
+
+  <tg-emoji emoji-id="5370546867786523009">📝</tg-emoji> <b>その他のチャンネルの場合 :</b>
+
+  <code>/channelplay [チャンネルID]</code>'
+cplay_2: ❖ <tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> <b>このチャットにはリンクされたチャンネルがありません。</b>
+cplay_3: '❖ <tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>ᴄʜᴧηηєʟ ᴅєғɪηєᴅ ᴛσ</b> {0}.
+
+  <tg-emoji emoji-id="6100424015111787987">📌</tg-emoji> <b>ᴄʜᴧηηєʟ ɪᴅ :</b> <code>{1}</code>'
+cplay_4: '❖ <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>チャンネルの取得に失敗しました。</b>
+
+
+  <tg-emoji emoji-id="5767288287001580715">💡</tg-emoji> ボットをチャンネルに追加し、管理者として昇格していることを確認してください。'
+cplay_5: <tg-emoji emoji-id="6039381989985882045">📢</tg-emoji> <b>チャンネルのみサポートされています。</b>
+cplay_6: '❖ <tg-emoji emoji-id="6237864166879663987">👑</tg-emoji> <b>このグループとチャンネル {0} を接続するには、そのチャンネルの<b>所有者</b>である必要があります。</b>
+
+  <tg-emoji emoji-id="5258362837411045098">👤</tg-emoji> <b>チャンネルの所有者:</b> @{1}
+
+
+  <tg-emoji emoji-id="5778455936410588193">🔗</tg-emoji> または、グループをそのチャンネルにリンクし、その後<code>/channelplay linked</code>で接続してみてください'
+cplay_7: ❖ <tg-emoji emoji-id="6271674836628541366">🛑</tg-emoji> <b>チャンネルプレイが無効になっています。</b>
+play_1: <tg-emoji emoji-id="5409368076447657845">🌟</tg-emoji> 雰囲気を読み込み中...お待ちください <tg-emoji emoji-id="6172312314423808834">✨</tg-emoji>
+play_2: '❖ <tg-emoji emoji-id="6039381989985882045">📢</tg-emoji> <b>チャンネルプレイモード</b>
+
+
+  <tg-emoji emoji-id="5373310679241466020">🌀</tg-emoji> 処理中、お待ちください...
+
+
+  <tg-emoji emoji-id="5778455936410588193">🔗</tg-emoji> <b>リンクされたチャンネル:</b> {0}'
+play_3: ❖ <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>クエリの処理に失敗しました。</b>
+play_4: '<tg-emoji emoji-id="6271824284310573725">👮‍♂️</tg-emoji> <b>管理者のみプレイ</b>
+
+  <tg-emoji emoji-id="6100397162976252509">🚫</tg-emoji> このチャットの管理者のみがプレイを許可されています
+
+
+  <tg-emoji emoji-id="5350396951407895212">⚙️</tg-emoji> <b>/playmode</b>でプレイモードを変更'
+play_5: '❖ <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>オーディオファイルの処理に失敗しました。</b>
+
+
+  <tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> オーディオファイルのサイズが定義された制限より大きいです。'
+play_6: ❖ <tg-emoji emoji-id="5267421370114914946">⏱</tg-emoji> <b>{0} より長いストリームは {1} での再生を許可されていません</b>
+play_7: '❖ <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>有効なビデオファイルの拡張子ではありません。</b>
+
+
+  <tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>サポートされている拡張子:</b> {0}'
+play_8: ❖ <tg-emoji emoji-id="5258389041006518073">📂</tg-emoji> <b>ビデオファイルのサイズは1GiB未満である必要があります。</b>
+play_9: '<tg-emoji emoji-id="5850346984501680054">▶️</tg-emoji> <b><u>YouTubeプレイリスト機能</b></u>
+
+
+  <tg-emoji emoji-id="5767117162619605573">📷</tg-emoji> YouTubeプレイリスト全体を再生したいモードを選択してください。'
+play_10: '<tg-emoji emoji-id="6100424015111787987">📌</tg-emoji> <b>タイトル:</b> {0}
+
+  <tg-emoji emoji-id="5267421370114914946">⏱</tg-emoji> <b>時間:</b> {1} 分'
+play_11: '<tg-emoji emoji-id="6113685078825505075">🟢</tg-emoji> <b><u>{0} Spotifyプレイヤー</b></u>
+
+
+  <tg-emoji emoji-id="5258362837411045098">👤</tg-emoji> <b>リクエスト者:</b> {1}'
+play_12: '<tg-emoji emoji-id="5409368076447657845">🌟</tg-emoji> <b><u>{0} Appleプレイヤー</b></u>
+
+
+  <tg-emoji emoji-id="5258362837411045098">👤</tg-emoji> <b>リクエスト者:</b> {1}'
+play_13: '❖ <tg-emoji emoji-id="5318840353510408444">🔴</tg-emoji> <b>ライブストリームを検出しました。</b>
+
+
+  <tg-emoji emoji-id="5188540541922480562">❓</tg-emoji> このライブストリームを再生してもよろしいですか？'
+play_14: '<tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>トラック詳細の取得に失敗しました。</b>
+
+
+  <tg-emoji emoji-id="5373310679241466020">🌀</tg-emoji> 他のトラックを再生してみてください。'
+play_15: '❖ <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>クエリの処理に失敗しました。</b>
+
+
+  <tg-emoji emoji-id="6113685078825505075">🟢</tg-emoji> Spotifyのトラック、アルバム、アーティスト、プレイリストのみを再生できます。'
+play_16: '<tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> <b>アクティブなボイスチャットがありません。</b>
+
+
+  <tg-emoji emoji-id="5258337316715373336">🤙</tg-emoji> 強制再生を使用するには、アクティブなボイスチャットが必要です。'
+play_17: <tg-emoji emoji-id="5258077307985207053">📹</tg-emoji> <b>ビデオチャットをオンにしてください。URLをストリームできません。</b>
+play_18: <tg-emoji emoji-id="5767288287001580715">💡</tg-emoji> <b>使い方:</b> /play [曲名/YouTube URL/オーディオ/ビデオファイルに返信]
+play_19: <tg-emoji emoji-id="5260512129240276089">📚</tg-emoji> <b>キューに入れられたプレイリスト:</b>
+play_20: <tg-emoji emoji-id="6172663483834831848">⌨️</tg-emoji> <b>キューに入れられた位置-</b>
+play_21: '<tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>{0} トラックをキューに追加しました。</b>
+
+
+  <tg-emoji emoji-id="5429571366384842791">🔎</tg-emoji> <b>確認:</b> <a href={1}>ここをクリック</a>'
+play_22: <tg-emoji emoji-id="5767117162619605573">📷</tg-emoji> <b>グループ内のクエリを再生したいモードを選択してください:</b> {0}
+str_1: <tg-emoji emoji-id="5778455936410588193">🔗</tg-emoji> <b>m3u8またはインデックスリンクを提供してください。</b>
+str_2: '❖ <tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>有効なストリームが確認されました。</b>
+
+
+  <tg-emoji emoji-id="5373310679241466020">🌀</tg-emoji> 処理中...'
+str_3: <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>YouTubeライブストリームのストリームに失敗しました。ライブフォーマットが見つかりません。</b>
+ping_1: <tg-emoji emoji-id="6170199997968029712">📡</tg-emoji> <b>{0} がpingしています...</b>
+ping_2: '{1}
+
+
+  <tg-emoji emoji-id="6246741653827095091">🏓</tg-emoji> <b>ポン:</b> <code>{0}ミリ秒..</code>
+
+
+  ❖ <tg-emoji emoji-id="6044356915029348425">📺</tg-emoji> <b>システムステータス:</b>
+
+
+  ↬ <tg-emoji emoji-id="6172312314423808834">✨</tg-emoji> <b>稼働時間:</b> <code>{2}</code>
+
+  ↬ <tg-emoji emoji-id="5462956611033117422">📀</tg-emoji> <b>RAM:</b> <code>{3}</code>
+
+  ↬ <tg-emoji emoji-id="6100220081474639964">⚡️</tg-emoji> <b>CPU:</b> <code>{4}</code>
+
+  ↬ <tg-emoji emoji-id="5258389041006518073">📂</tg-emoji> <b>ディスク:</b> <code>{5}</code>
+
+  ↬ <tg-emoji emoji-id="5258337316715373336">🤙</tg-emoji> <b>Py-TgCalls:</b> <code>{6}ミリ秒</code>'
+queue_1: '❖ <tg-emoji emoji-id="5260512129240276089">📚</tg-emoji> キューを取得中...
+
+
+  <tg-emoji emoji-id="5891211339170326418">⌛️</tg-emoji> お待ちください...'
+queue_2: ❖ <tg-emoji emoji-id="5408843502027033965">📦</tg-emoji> <b>キューは空です。</b>
+queue_3: <u>❖ <tg-emoji emoji-id="5429571366384842791">🔎</tg-emoji> <b>キューに入っているトラックのリストを確認するには、ここをクリックしてください:</b></u> <a href={0}>ここ</a>
+queue_4: '❖ <tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>キューに#{0}として追加しました
+
+
+  ❖ <tg-emoji emoji-id="6100424015111787987">📌</tg-emoji> タイトル:</b> {1}
+
+  ❖ <tg-emoji emoji-id="5267421370114914946">⏱</tg-emoji> <b>時間:</b> {2} 分
+
+  ❖ <tg-emoji emoji-id="5258362837411045098">👤</tg-emoji> <b>投稿者:</b> {3}'
+queue_5: '<tg-emoji emoji-id="5188540541922480562">❓</tg-emoji> <b>プレイリストには1曲しかキューに入っていません。</b>
+
+
+  <tg-emoji emoji-id="6100125944381444896">➕</tg-emoji> リストを確認するには、さらにトラックを追加してください。'
+queue_6: '❍ <tg-emoji emoji-id="5267421370114914946">⏱</tg-emoji> <b>時間:</b> 不明な時間ストリーム
+
+
+  <tg-emoji emoji-id="5767117162619605573">📷</tg-emoji> 全てのキューリストを取得するには、以下のボタンをクリックしてください。'
+queue_7: '
+
+  <tg-emoji emoji-id="5767117162619605573">📷</tg-emoji> <b>全てのキューリストを取得するには、以下のボタンをクリックしてください。</b>'
+queue_8: '<tg-emoji emoji-id="6082387600599944892">🎧</tg-emoji> <b>{0} プレイヤー</b>
+
+
+  ❍ <tg-emoji emoji-id="5850346984501680054">▶️</tg-emoji> <b>ストリーミング中:</b> {1}
+
+
+  ❍ <tg-emoji emoji-id="5409025823388741707">🎵</tg-emoji> <b>ストリームの種類:</b> {2}
+
+  ❍ <tg-emoji emoji-id="5258362837411045098">👤</tg-emoji> <b>リクエスト者:</b> {3}
+
+  {4}'
+stream_1: "❖ <tg-emoji emoji-id=\"5850346984501680054\">▶️</tg-emoji> <b>ストリーミングを開始しました ❖ ⏤͟͞●</b>\n\n❍ <tg-emoji emoji-id=\"6100424015111787987\">\U0001F4CC</tg-emoji> <b>タイトル ➥</b> <a href={0}>{1}</a> \n❍ <tg-emoji emoji-id=\"5267421370114914946\">⏱</tg-emoji> <b>時間 ➥</b> {2} 分 \n❍ <tg-emoji emoji-id=\"5258362837411045098\">\U0001F464</tg-emoji> <b>投稿者 ➥</b> {3}"
+stream_2: '❖ <tg-emoji emoji-id="5318840353510408444">🔴</tg-emoji> <b>  ベイビー⟡ ストリーミング中 ⏤͟͞●</b>
+
+
+  ❍ <tg-emoji emoji-id="5409025823388741707">🎵</tg-emoji> <b>ストリームの種類 ➥</b> ライブストリーム [ URL ]
+
+  ❍ <tg-emoji emoji-id="5258362837411045098">👤</tg-emoji> <b>投稿者 ➥</b> {0}'
+CLOSE_BUTTON: <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> 閉じる <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji>
+BACK_BUTTON: 🔙 戻る 🔙
+NEXT_PAGE: ▶️
+BACK_PAGE: ⬅️
+CLOSEMENU_BUTTON: <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> 閉じる <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji>
+SO_B_1: 私を招待してください
+S_B_1: 私を招待してください
+S_B_2: 🛠 サポート
+S_B_3: ➕ 私をあなたのグループに追加 ✙
+S_B_4: 📚 ヘルプとコマンド
+S_B_5: 👑 所有者
+S_B_6: 🌀 更新
+S_B_7: 📂 リポジトリ
+S_B_8: ▶️ YouTube
+S_B_9: 🛠 サポート
+S_B_10: ❓ について
+S_B_11: 🌟 GitHub
+S_B_12: 🌟 クローン
+H_B_1: 管理者
+H_B_2: 認証
+H_B_3: Gキャスト
+H_B_4: ブラックリストチャット
+H_B_5: ブラックリストユーザー
+H_B_6: 再生中
+H_B_7: G禁止
+H_B_8: ループ
+H_B_9: 自動再生
+H_B_10: ピング
+H_B_11: 再生
+H_B_12: シャッフル
+H_B_13: シーク
+H_B_14: 曲
+H_B_15: 速度
+H_B_16: GPT
+H_B_17: ステッカー
+H_B_18: 全員をタグ付け
+H_B_19: 情報
+H_B_20: グループ
+H_B_21: 追加
+H_B_22: 画像
+H_B_23: アクション
+H_B_24: 検索
+P_B_1: 🎵 オーディオ
+P_B_2: 📹 ビデオ
+P_B_3: 🔴 ライブストリーム
+P_B_4: ▶️ 通常
+ST_B_1: 🔓 認証済みユーザー
+ST_B_2: ⚙️ 再生モード
+ST_B_3: 🌐 言語
+ST_B_4: 📝 投票モード
+ST_B_5: <tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> オン
+ST_B_6: <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> オフ
+ST_B_7: 🔓 認証ユーザー ➜
+ST_B_8: 👮‍♂️ 管理者
+ST_B_9: 👥 全員
+ST_B_10: 🔎 検索モード ➜
+ST_B_11: 📍 直接
+ST_B_12: 🟢 インライン
+ST_B_13: ⚙️ 管理コマンド ➜
+ST_B_14: 🎵 再生タイプ ➜
+SA_B_1: <tg-emoji emoji-id="5936143551854285132">📊</tg-emoji> 全体統計
+SA_B_2: 📚 一般
+SA_B_3: <tg-emoji emoji-id="5936143551854285132">📊</tg-emoji> 全体
+QU_B_1: 📚 キュー
+QU_B_2: ' {0} —————————— {1}'
+sudo_1: ❍ ❓ <b>{0} はすでに sudo ユーザーリストにいます</b> •
+sudo_2: ❍ <tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>{0} を sudo ユーザーリストに追加しました</b> •
+sudo_3: ❍ ❓ <b>{0} は sudo ユーザーリストにいません</b> •
+sudo_4: ❍ 🗑 <b>{0} を sudo ユーザーリストから削除しました</b> •
+sudo_5: '👑 <u><b>所有者</b> </u>
+
+  '
+sudo_6: '
+
+  👑 <u><b>❍ sudo ユーザー</b> •</u>
+
+  '
+sudo_7: ❍ <tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> <b>sudo ユーザーが見つかりません</b> •
+sudo_8: • <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>失敗</b> •
+block_1: ❖ ❓ <b>{0} はすでにボットからブロックされています。</b>
+block_2: ❖ 🚫 <b>{0} をブロックされたユーザーリストに追加しました。</b>
+block_3: ❖ ❓ <b>{0} はブロックされたユーザーリストにいません。</b>
+block_4: ❖ <tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>{0} をブロックされたユーザーリストから削除しました。</b>
+block_5: ❖ <tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> <b>ブロックされたユーザーが見つかりません。</b>
+block_6: ❖ 🌀 <b>ブロックされたユーザーリストを取得中...</b>
+block_7: '❍ 🚫 <b>ブロックされたユーザー :</b>
+
+
+  '
+black_1: '💡 <b>例 :</b>
+
+
+  ⛔️ /blacklistchat [チャットID]'
+black_2: ❖ ❓ <b>このチャットはすでにブラックリストに登録されています。</b>
+black_3: ❖ <tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>ブラックリスト登録済みチャットに正常に追加されました。</b>
+black_4: '💡 <b>例 :</b>
+
+
+  <tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> /whitelistchat [チャットID]'
+black_5: ❖ ❓ <b>このチャットはブラックリストに登録されていません。</b>
+black_6: ❖ <tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>ブラックリスト登録済みチャットから正常に削除されました。</b>
+black_7: '❖ ⛔️ <b>ブラックリスト登録済みチャットのリスト :</b>
+
+
+  '
+black_8: ❖ <tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> <b>{0} にブラックリスト登録されたチャットはありません。</b>
+black_9: ❖ <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>何かがうまくいきませんでした。</b>
+maint_1: '💡 <b>例 :</b>
+
+  🛠 /maintenance [有効 | 無効]'
+maint_2: ❖ <tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>{0} メンテナンスモードが有効になりました。</b>
+maint_3: ❖ <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>{0} メンテナンスモードが無効になりました。</b>
+maint_4: ❖ ❓ <b>メンテナンスモードはすでに有効になっています。</b>
+maint_5: ❖ ❓ <b>メンテナンスモードはすでに無効になっています。</b>
+log_1: '💡 <b>例 :</b>
+
+  📝 /logger [有効 | 無効]'
+log_2: <tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>ログが有効になりました。</b>
+log_3: <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>ログが無効になりました。</b>
+broad_1: ❖ 📢 <b>ブロードキャストを開始しました...</b>
+broad_2: '💡 <b>例 :</b>
+
+
+  📢 /broadcast [メッセージまたはメッセージへの返信]'
+broad_3: ❖ <tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>{0} のチャットにメッセージをブロードキャストしました。ボットから {1} 個の 📌 ピン付き。</b>
+broad_4: ❖ <tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>👥 {0} 人のユーザーにメッセージをブロードキャストしました。</b>
+broad_5: ❖ 📢 <b>アシスタントブロードキャストを開始しています...</b>
+broad_6: '❖ 📢 <b>アシスタントブロードキャスト :</b>
+
+
+  '
+broad_7: ↬ <tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>アシスタント {0} が 💬 {1} 件のチャットにブロードキャストしました。</b>
+broad_8: ❖ <tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> <b>ブロードキャストする📝テキストを入力してください。</b>
+server_1: ❖ <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>ログの取得に失敗しました。</b>
+server_2: <tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> <b>Heroku APIキーとアプリ名が正しく設定されていることを確認してください。</b>
+server_3: 🌀 <b>利用可能なアップデートを確認しています...</b>
+server_4: <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>Gitコマンドエラー。</b>
+server_5: <tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> <b>無効なGitリポジトリ。</b>
+server_6: ❖ <tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>ボットは最新です。</b>
+server_7: ❖ 🌟 <b>ボットは正常に更新されました！ボットが再起動し、変更がプッシュされるまで数分お待ちください！</b>
+server_8: '🌀 <b>{0} は再起動しています...</b>
+
+
+  ▶️ 15〜20秒後に再度プレイを開始できます。'
+server_9: <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>何か問題が発生しました。ログを確認してください。</b>
+server_10: <tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> <b>#updater で例外が発生しました:</b> <code>{0}</code>
+server_11: ❖ 🚀 <b>スピードテストを実行中...</b>
+server_12: 📥 <b>⇆ ダウンロードスピードテストを実行中...</b>
+server_13: ⬆️ <b>⇆ アップロードスピードテストを実行中...</b>
+server_14: 🌀 <b>↻ スピードテスト結果を共有中...</b>
+server_15: '🚀 <b>スピードテスト結果</b> 🚀
+
+
+  <u>🌟 <b>クライアント:</b></u>
+
+  ❖ 📡 <b>ISP:</b> {0}
+
+  ❖ 🌍 <b>国:</b> {1}
+
+
+  <u>📺 <b>サーバー:</b></u>
+
+  ❖ 📝 <b>名前:</b> {2}
+
+  ❖ 🌍 <b>国:</b> {3}, {4}
+
+  ❖ 🤙 <b>スポンサー:</b> {5}
+
+  ❖ ⏱ <b>遅延:</b> {6}
+
+  ❖ 🏓 <b>Ping:</b> {7}'
+gban_1: ❖ ❓ <b>なぜご自身をグローバルBANしたいのですか、ベイビー？</b>
+gban_2: ❖ ❓ <b>なぜ私自身をグローバルBANする必要があるのですか？</b>
+gban_3: ❖ 🚫 <b>私のsudoerをグローバルBANすることはできません。</b>
+gban_4: ❖ ❓ <b>{0} はすでにボットから🌍 グローバルBANされています。</b>
+gban_5: '❖ ⌛️ <b>{0} に🌍 グローバルBANを初期化中。</b>
+
+
+  ⏱ <b>予想時間:</b> {1}'
+gban_6: '🌍 <b><u>{0} への新しいグローバルBAN:</u></b>
+
+
+  📍 <b>発信元:</b> {1} [<code>{2}</code>]
+
+  👤 <b>ユーザー:</b> {3}
+
+  📌 <b>ユーザーID:</b> {4}
+
+
+  👮‍♂️ <b>BANした人:</b> {5}
+
+  💬 <b>チャット:</b> <code>{6}</code>'
+gban_7: ❖ ❓ <b>{0} はボットからグローバルBANされていません。</b>
+gban_8: '❖ 🔓 <b>{0} から🌍 グローバルBANを解除中。</b>
+
+
+  ⏱ <b>予想時間:</b> {1}'
+gban_9: '❖ <tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>{0} から🌍 グローバルBANを解除しました。</b>
+
+
+  🔓 💬 {1} チャットで解除されました。'
+gban_10: ❖ <tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> <b>誰もボットから🌍 グローバルBANされていません。</b>
+gban_11: ❖ 🌀 <b>グローバルBANされたユーザーリストを取得中...</b>
+gban_12: '❍ 🌍 <b>グローバルBANされたユーザー:</b>
+
+
+  '
+SG_B_1: 📷 ここをクリック 📷
+SG_B_2: 🎵 オーディオ 🎵
+SG_B_3: 📹 ビデオ 📹
+song_1: <tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> <b>YouTubeからの音楽やビデオはプライベートチャットでのみダウンロードできます。プライベートチャットで私を開始してください。</b>
+song_2: '💡 <b>使用法:</b>
+
+
+  🎵 /song [曲名] または [▶️ YouTubeリンク]'
+song_3: 🔴 <b>ライブリンクが検出されました。ライブの▶️ YouTubeビデオはダウンロードできません。</b>
+song_4: '❍ 📌 <b>タイトル:</b> {0}
+
+
+  📷 ダウンロードしたい種類を選択してください。'
+song_5: <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>有効な▶️ YouTubeリンクではありません。</b>
+song_6: '🌀 <b>フォーマットを取得中...</b>
+
+
+  ⌛️ お待ちください...'
+song_7: <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>ビデオの利用可能なフォーマットの取得に失敗しました。他のトラックをお試しください。</b>
+song_8: '📥 <b>ダウンロードを開始しました</b>
+
+
+  ⌛️ 数秒お待ちください...'
+song_9: '<tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>YT-DLからの曲のダウンロードに失敗しました</b>
+
+
+  <tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> <b>理由:</b> {0}'
+song_10: <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>Telegramサーバーへのアップロードに失敗しました。</b>
+song_11: '⬆️ <b>アップロードを開始しました</b>
+
+
+  ⌛️ お待ちください...'
+BOT_DESC: "<tg-emoji emoji-id=\"5355051922862653659\">\U0001F916</tg-emoji> <b>このようなボットが欲しいですか？今すぐクローンを作成しましょう！ <tg-emoji emoji-id=\"6280269890821558384\">✅</tg-emoji></b>\n\n\U0001F31F 訪問: @clone_MUSICrobot から始めましょう！\n\n \U0001F300 - 更新: @kavyaBots\n \U0001F451 - 所有者: @ll_Alexx_lll"
+C_B_1: 🌟 クローン機能
+C_B_2: 👑 所有者
+C_B_3: <tg-emoji emoji-id="5355051922862653659">🤖</tg-emoji> 自分のボットを作成
+C_B_H_0: ❓ <b>すでにボットをクローンしています！</b>
+C_B_H_1: '🌟 <b>/clone コマンドの後に @Botfather からボットトークンを提供してください。</b>
+
+
+  💡 <b>例 :</b> <code>/clone bot token paste here</code>'
+C_B_H_2: ⌛️ <b>ボットトークンを処理していますので、しばらくお待ちください。</b>
+C_B_H_3: <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>無効なボットトークンが提供されました。有効なボットトークンを提供してください。</b>
+C_B_H_4: <tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> <b>現在、あまりにも多くのクローンが処理されています。10分待ってから再度お試しください。</b>
+C_B_H_5: 🌀 <b>クローン作成プロセスを開始しました。ボットが起動するまでお待ちください。</b>
+C_B_H_6: '<tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>ボット @{0} は正常にクローンされ、起動しました <tg-emoji emoji-id="6280269890821558384">✅</tg-emoji>。</b>
+
+  🗑 <b>クローンを削除するには :-</b> <code>/rmbot</code>'
+C_B_H_7: '<tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> <b>エラー :</b>
+
+
+  <code>{e}</code>
+
+
+  📧 <b>アシスタンスを得るには、このメッセージを @betabot_support に転送してください</b>'
+C_B_H_8: '🌟 <b>/rmbot コマンドの後にボットトークン / ユーザー名を提供してください</b>
+
+
+  💡 <b>例 :</b> <code>/rmbot bot_token/username</code>'
+C_B_H_9: 🔎 <b>ボット情報を確認中... しばらくお待ちください！</b>
+C_B_H_10: '<tg-emoji emoji-id="5355051922862653659">🤖</tg-emoji> <b>クローンされたボットは私のサーバーから切断されました ☠️</b>
+
+  🌟 <b>クローン作成 :- /clone</b>'
+C_B_H_11: <tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> <b>指定された詳細に一致するクローンされたボットは見つかりませんでした。</b>
+C_B_H_12: '🗑 <b>ボット削除リクエストが送信されました。</b>
+
+
+  ⌛️ <i>ボットは1分以内に削除されます...</i>'
+C_B_H_13: <tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> <b>まだボットがクローンされていません。</b>
+C_B_H_14: 🗑 <b>クローンされたすべてのボットを削除中...</b>
+C_B_H_15: <tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>クローンされたすべてのボットが正常に削除されました。</b>
+C_B_H_16: ❓ <b>まだボットをクローンしていません。</b>
+c_start_2: "✦ \U0001F44B <b>ʜєʏ {0}, \U0001F940</b> \n\n<b>━━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━━</b>\n<b>❖ ✨ ᴛʜɪs ɪs {1} \U0001F3B5 !</b>\n<b>❖ \U0001F48E ᴧ ᴘʀєϻɪυϻ ᴧηᴅ ᴘσᴡєʀғυʟ ϻυsɪᴄ ʙσᴛ</b>\n<b>❖ <tg-emoji emoji-id=\"6082387600599944892\">\U0001F3A7</tg-emoji> sυᴘᴘσʀᴛs : ▶️ ʏσυᴛυʙє • \U0001F7E2 sᴘσᴛɪғʏ • \U0001F31F ᴧᴘᴘʟє</b>\n<b>❖ \U0001F6AB ησ ᴧᴅs | ⚡️ 24x7 ᴧᴄᴛɪᴠє | \U0001F680 ησ ʟᴧɢ</b>\n<b>━━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━━</b>\n<b>❖ ❓ ᴄʟɪᴄᴋ ση ᴛʜє ʜєʟᴩ ʙυᴛᴛση ᴛσ ɢєᴛ ɪηғσ</b>\n<b>    ᴧʙσυᴛ ϻʏ ϻσᴅυʟєs ᴧηᴅ ᴄσϻϻᴧηᴅs...!</b>\n<b>━━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━━</b>"
+c_brod_1: "❖ \U0001F48E <b>ʏσυʀ ʙσᴛ ηєєᴅs ᴧ ᴘʀєϻɪυϻ sυʙsᴄʀɪᴘᴛɪση ᴛσ υsє</b> <code>/broadcast</code>\n\n \U0001F4E2 <b>ᴊσɪη <a href='{0}'>[˹ɪsᴛυ˼]</a></a> σʀ ᴅϻ @ll_Alexx_lll ғσʀ ϻσʀє ᴅєᴛᴧɪʟs ᴧηᴅ ɢєᴛ sᴛᴧʀᴛєᴅ !</b>"
+NOT_C_OWNER: "❖ \U0001F6AB <b>このコマンドを使用する権限がありません</b>\n\n \U0001F451 <b>詳細については <a href='{0}'>[˹ᴋɪηɢ˼]</a> に参加するか、@KavyaBots にDMしてください！</b>"
+C_B_P_1: <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>ʙσᴛ ɪᴅ が見つかりません！</b>
+C_B_P_2: 💎 <b>ᴘʀєϻɪυϻ が見つかりません！</b>
+C_B_P_3: 🧪 テスト
+C_B_P_4: 🧪 テスト
+C_B_P_5: 🧪 テスト
+C_P_I_1: '💡 <b>使い方 :</b> <code>/setsupport <chat_username></code>
+
+
+  <tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> <b>注 :</b> チャットユーザー名に <code>@</code> 記号を含めないでください。'
+C_P_I_2: '💡 <b>使い方 :</b> <code>/setchannel <channel_username></code>
+
+
+  <tg-emoji emoji-id="6102938383456146362">⚠️</tg-emoji> <b>注 :</b> チャンネルユーザー名に <code>@</code> 記号を含めないでください。'
+C_P_I_3: <tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>サポートチャットは @{0} に正常に設定されました</b>
+C_P_I_4: <tg-emoji emoji-id="6280269890821558384">✅</tg-emoji> <b>サポートチャンネルは @{0} に正常に設定されました</b>
+C_P_I_5: <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>サポートチャットの更新に失敗しました。</b>
+C_P_I_6: <tg-emoji emoji-id="6271611232457855630">❌</tg-emoji> <b>サポートチャンネルの更新に失敗しました。</b>
+NO_CLONE_MSG: <tg-emoji emoji-id="5355051922862653659">🤖</tg-emoji> <b>独自のボットクローンを作成するには、元のボット @clone_MUSICrobot を使用してください。そこに行ってクローンを開始するだけです!!</b>
